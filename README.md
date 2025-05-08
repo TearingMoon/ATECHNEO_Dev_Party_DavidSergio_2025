@@ -1,1 +1,0 @@
-# ATECHNEO_Dev_Party_DavidSergio_2025
