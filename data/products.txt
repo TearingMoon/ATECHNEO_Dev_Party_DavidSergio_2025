@@ -1,0 +1,400 @@
+Screen 1:
+        395
+        999
+
+Screen 2:
+        668
+        746
+
+Screen 3:
+        245
+        655
+
+Screen 4:
+        156
+        980
+
+Screen 5:
+        264
+        277
+
+Screen 6:
+        349
+        451
+
+Screen 7:
+        316
+        247
+
+Screen 8:
+        852
+        738
+
+Screen 9:
+        168
+        404
+
+Screen 10:
+        311
+        575
+
+Screen 11:
+        116
+        508
+
+Screen 12:
+        626
+        249
+
+Screen 13:
+        700
+        473
+
+Screen 14:
+        346
+        180
+
+Screen 15:
+        816
+        730
+
+Screen 16:
+        658
+        691
+
+Screen 17:
+        702
+        580
+
+Screen 18:
+        710
+        279
+
+Screen 19:
+        226
+        886
+
+Screen 20:
+        812
+        502
+
+Screen 21:
+        992
+        851
+
+Screen 22:
+        548
+        846
+
+Screen 23:
+        970
+        223
+
+Screen 24:
+        851
+        513
+
+Screen 25:
+        611
+        227
+
+Screen 26:
+        629
+        596
+
+Screen 27:
+        680
+        854
+
+Screen 28:
+        921
+        496
+
+Screen 29:
+        655
+        206
+
+Screen 30:
+        562
+        620
+
+Screen 31:
+        311
+        576
+
+Screen 32:
+        117
+        460
+
+Screen 33:
+        905
+        612
+
+Screen 34:
+        371
+        823
+
+Screen 35:
+        371
+        528
+
+Screen 36:
+        745
+        852
+
+Screen 37:
+        454
+        238
+
+Screen 38:
+        751
+        660
+
+Screen 39:
+        460
+        532
+
+Screen 40:
+        505
+        310
+
+Screen 41:
+        722
+        758
+
+Screen 42:
+        931
+        773
+
+Screen 43:
+        948
+        548
+
+Screen 44:
+        610
+        431
+
+Screen 45:
+        762
+        453
+
+Screen 46:
+        937
+        914
+
+Screen 47:
+        366
+        115
+
+Screen 48:
+        107
+        242
+
+Screen 49:
+        321
+        687
+
+Screen 50:
+        369
+        801
+
+Screen 51:
+        634
+        891
+
+Screen 52:
+        173
+        951
+
+Screen 53:
+        914
+        757
+
+Screen 54:
+        231
+        139
+
+Screen 55:
+        342
+        357
+
+Screen 56:
+        546
+        311
+
+Screen 57:
+        706
+        671
+
+Screen 58:
+        725
+        580
+
+Screen 59:
+        474
+        255
+
+Screen 60:
+        848
+        357
+
+Screen 61:
+        252
+        249
+
+Screen 62:
+        696
+        761
+
+Screen 63:
+        788
+        100
+
+Screen 64:
+        712
+        183
+
+Screen 65:
+        676
+        898
+
+Screen 66:
+        915
+        609
+
+Screen 67:
+        857
+        964
+
+Screen 68:
+        764
+        837
+
+Screen 69:
+        603
+        951
+
+Screen 70:
+        345
+        176
+
+Screen 71:
+        846
+        916
+
+Screen 72:
+        846
+        902
+
+Screen 73:
+        339
+        506
+
+Screen 74:
+        947
+        940
+
+Screen 75:
+        167
+        348
+
+Screen 76:
+        593
+        159
+
+Screen 77:
+        414
+        606
+
+Screen 78:
+        725
+        958
+
+Screen 79:
+        654
+        308
+
+Screen 80:
+        789
+        146
+
+Screen 81:
+        263
+        179
+
+Screen 82:
+        415
+        528
+
+Screen 83:
+        561
+        895
+
+Screen 84:
+        151
+        740
+
+Screen 85:
+        742
+        475
+
+Screen 86:
+        486
+        831
+
+Screen 87:
+        382
+        678
+
+Screen 88:
+        732
+        152
+
+Screen 89:
+        380
+        677
+
+Screen 90:
+        575
+        156
+
+Screen 91:
+        877
+        572
+
+Screen 92:
+        250
+        735
+
+Screen 93:
+        842
+        203
+
+Screen 94:
+        994
+        507
+
+Screen 95:
+        975
+        482
+
+Screen 96:
+        249
+        558
+
+Screen 97:
+        685
+        870
+
+Screen 98:
+        432
+        796
+
+Screen 99:
+        556
+        335
+
+Screen 100:
+        593
+        440
+
